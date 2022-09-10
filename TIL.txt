@@ -1,2 +1,18 @@
 1. 앞으로 git 프로젝트로 만들고 싶은 것 
+
+ - 환경에 관심있는 사람들의 자발적인 변화주체로 노력할 수 있는
+플랫폼 만들기
+ - 공정제어 및 설계 AI 머신러닝 도입 및 활성화 프로젝트
+
 2. 1주차 주요 개념 키워드 적어보기
+ - commit : 프로젝트 상태 저장 및 버전관리
+ - (add) 또는 staging : commit에 반영할 파일 선택
+ - history : 커밋기록 확인
+ - repo
+   : 내 컴퓨터에 저장된 리포지토리 : local repo
+     다른곳에서 접속할 수 있는 공간에 저장된 리포지토리 : remote repository
+ - 로컬 repo와 원격 repo를 연결하는 것을 추적(tracking)
+ - push : 로컬 repo의 commit들을 원격 repo에 반영하는 것
+ - pull : 원격 repo의 commit들을 로컬 repo에 반영하는 것
+ - 원격 repo를 내 컴퓨터에서도 사용할 수 있도록 가져오는 것을 clone이라고 함
+
